@@ -1,3 +1,4 @@
+<div style="padding-right: 30px;padding-left: 30px;">
 <h3>Légende</h3>
 <table>
 <tr><td colspan="2"><b>Types de surveillance représentés</b></td></tr>
@@ -43,3 +44,4 @@
 Des statistiques sur les tags utilisés sur les noeuds <tt>man_made=surveillance</tt> sont maintenant disponibles <a href="tags.php">ici</a>.<br/>
 <h4>2012-09-30</h4>
 Le code de ce site est maintenant disponible sur <a href="https://github.com/khris78/osmcamera">GitHub</a>.<br/>
+</div>
